@@ -1,0 +1,12 @@
+/vendor
+/.idea
+/.vscode
+
+/node_modules
+Homestead.json
+Homestead.yaml
+.env
+
+.history
+sapo.code-workspace
+*.sqlite
